@@ -1,0 +1,26 @@
+{
+  "name": "youngcoders",
+  "version": "1.0.0",
+  "description": "Youngcoders Melbourne",
+  "author": "Kayd Withers",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/markdownit": "^1.2.7",
+    "contentful": "^7.10.0",
+    "contentful-management": "^5.11.3",
+    "dotenv": "^8.2.0",
+    "node-sass": "^4.13.0",
+    "nuxt": "^2.0.0",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^8.0.0",
+    "tachyons": "^4.11.1"
+  },
+  "devDependencies": {}
+}
